@@ -14,7 +14,7 @@
       "source": {
         "remote": {
           "repository": "litlfred/who-iris",
-          "ref": "94a15b9d29b817c9d59fd4d0cc2baff7f0286112",
+          "ref": "62f92b098f287704c4506fafb57c1223b5be8616",
           "overrides": {
             "who-iris": {
               "whole": true
@@ -39,7 +39,7 @@
             "consent": {
               "by": "litlfred",
               "on": "2026-11-15",
-              "ref": "94a15b9d29b817c9d59fd4d0cc2baff7f0286112",
+              "ref": "62f92b098f287704c4506fafb57c1223b5be8616",
               "evidence": "standing consent by litlfred 2026-11-12 (Q-BIBNAV-2 B: follow main); hand re-pin of every layer to main after cat-harness-tools#2278 (standing re-pin could not mount smart-base), Claude Code session https://claude.ai/code/session_01Qmmkt9PKt17La22a63e6zg"
             },
             "standing": {
@@ -323,7 +323,7 @@
       "source": {
         "remote": {
           "repository": "litlfred/smart-ra",
-          "ref": "0440edcbec039a519a3e3ce3303da4b753a4a90d",
+          "ref": "b8883738e0d6fe03f5e8aa07293023461e69d3eb",
           "overrides": {
             "dpi-h-ra": {
               "directories": [
@@ -360,7 +360,7 @@
             "consent": {
               "by": "litlfred",
               "on": "2026-11-15",
-              "ref": "0440edcbec039a519a3e3ce3303da4b753a4a90d",
+              "ref": "b8883738e0d6fe03f5e8aa07293023461e69d3eb",
               "evidence": "standing consent by litlfred 2026-11-12 (Q-BIBNAV-2 B: follow main); hand re-pin of every layer to main after cat-harness-tools#2278 (standing re-pin could not mount smart-base), Claude Code session https://claude.ai/code/session_01Qmmkt9PKt17La22a63e6zg",
               "standing": {
                 "follows": "main",
