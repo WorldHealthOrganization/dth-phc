@@ -13,4 +13,4 @@ permissions:
 
 jobs:
   audit:
-    uses: litlfred/cat-harness-tools/.github/workflows/folio-section-title-audit.yml@067776bd7dcbd6203e15020c565f02756aa0b597 # index.lock.json
+    uses: litlfred/cat-harness-tools/.github/workflows/folio-section-title-audit.yml@5b46e360371286bcf553918d45c426b6d9bd9619 # index.lock.json
