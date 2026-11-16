@@ -2,7 +2,7 @@
   "$schema": "document-export/v1",
   "document": "dth-phc",
   "title": "Digital Transformation Handbook for Primary Health Care: optimizing person-centred point of service systems",
-  "commit": "b607f4004cb342fa10120f9110ef17490d822d3c",
+  "commit": "aff819b1773c7dd397d610e2fbfd9c09ae43868b",
   "dirty": false,
   "commitDate": "2026-11-16",
   "date": "2026-11-16",
@@ -14,7 +14,7 @@
   "files": [
     {
       "kind": "review-docx",
-      "file": "dth-phc-public-comment-b607f40-2026-11-16.docx",
+      "file": "dth-phc-public-comment-aff819b-2026-11-16.docx",
       "latest": "dth-phc-public-comment-latest.docx",
       "format": "Word (.docx)",
       "mediaType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -29,18 +29,18 @@
       "parameters": {
         "document": "dth-phc",
         "export kind": "release",
-        "source commit": "b607f40",
+        "source commit": "aff819b",
         "date": "2026-11-16",
         "line numbers": "on",
         "track changes": "off"
       },
-      "sha256": "915d340e7ae329164cf726999eeb2d0e3dd21e5fd7b88d9dc86b775fe1d897b6",
-      "bytes": 5248387,
+      "sha256": "9ce031b2f5b1482f3172395bf1174a4349f246664e962cfae8d5c5d715c276c7",
+      "bytes": 5248383,
       "bookmarks": 194
     },
     {
       "kind": "pdf",
-      "file": "dth-phc-public-comment-b607f40-2026-11-16.pdf",
+      "file": "dth-phc-public-comment-aff819b-2026-11-16.pdf",
       "latest": "dth-phc-public-comment-latest.pdf",
       "format": "PDF",
       "mediaType": "application/pdf",
@@ -56,19 +56,19 @@
       "parameters": {
         "document": "dth-phc",
         "export kind": "release",
-        "source commit": "b607f40",
+        "source commit": "aff819b",
         "date": "2026-11-16",
         "line numbers": "on",
-        "laid out from": "dth-phc-public-comment-b607f40-2026-11-16.docx"
+        "laid out from": "dth-phc-public-comment-aff819b-2026-11-16.docx"
       },
-      "sha256": "bae4347cdf74a4cb907175487002a1f4f280bcf49403b8aa88cc918f780f03f9",
-      "bytes": 6455975,
+      "sha256": "f3d7ce66686952b4736661b49471bd9e9889939e11b136f69d4fdcca1f272ebc",
+      "bytes": 6456149,
       "pages": 174,
       "lines": 3271
     },
     {
       "kind": "offline-docx",
-      "file": "dth-phc-offline-b607f40.docx",
+      "file": "dth-phc-offline-aff819b.docx",
       "latest": "dth-phc-offline-latest.docx",
       "format": "Word (.docx)",
       "mediaType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -84,13 +84,13 @@
       "parameters": {
         "document": "dth-phc",
         "export kind": "release",
-        "source commit": "b607f40",
+        "source commit": "aff819b",
         "date": "2026-11-16",
         "line numbers": "on",
         "track changes": "on"
       },
-      "sha256": "05315ed4b82b988fcc71f625a1c2e788d7cded7009702b85e99552384bf68f25",
-      "bytes": 5248445,
+      "sha256": "2dbf8f6300291df6008c80bd88e0e9adeae90c3ac53d29f03fee08b27bc64d2c",
+      "bytes": 5248446,
       "bookmarks": 194
     }
   ]
