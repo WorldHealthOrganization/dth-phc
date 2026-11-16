@@ -57,6 +57,17 @@
     {
       "id": "archimate",
       "path": "archimate/",
+      "coverage": {
+        "visualiser": [
+          {
+            "ref": "en/dth-phc/archimate/index.html",
+            "title": "ArchiMate models",
+            "writer": [
+              "cat-harness-tools/archimate/scripts/gen-archimate-pages.ts"
+            ]
+          }
+        ]
+      },
       "graphTypologies": [
         "archimate"
       ],
@@ -113,6 +124,17 @@
     {
       "id": "references",
       "path": "references/",
+      "coverage": {
+        "visualiser": [
+          {
+            "ref": "en/folio-assistant-core/bibliography/references/index.html",
+            "title": "Bibliography",
+            "writer": [
+              "folio-assistant-core/scripts/bibliography-page.ts"
+            ]
+          }
+        ]
+      },
       "description": "dth-phc's bibliography: one folio-reference/v1 CSL-JSON node per entry of the document's References chapter (`folio/dth-phc/references/p-references-main.md`), `<key>.json`, in the KG at `references/<key>` (owner, 2026-11-02: \"each document should have a bibliography pages which includes refrenced content in the document\"). Committee content, wording kept: each node's fields are taken word for word from its entry, and `_comment` holds the entry as printed. The References chapter's block names every node in `cites`, in chapter order, so the chapter and the KG Bibliography (`en/folio-assistant-core/bibliography/`) list the same works. A key shared with the who-iris catalogue, a library asset or another folio's bibliography names the same work there.",
       "graphTypologies": [
         "references"
