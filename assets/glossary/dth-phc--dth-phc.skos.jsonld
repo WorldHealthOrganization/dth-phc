@@ -2826,10 +2826,10 @@
       ],
       "skos:exactMatch": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/health-workers"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/health-workers"
         },
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/twg-candidates/health-workers--who-wpro-hwf-framework-2024"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/twg-candidates/health-workers--who-wpro-hwf-framework-2024"
         }
       ],
       "skos:closeMatch": [
