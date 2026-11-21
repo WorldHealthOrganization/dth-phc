@@ -4,9 +4,7 @@
   "scripts": {
     "cat": "bun .github/cat.ts",
     "site:document": "bun run folio-assistant-core/scripts/build-document-site.ts --landing-layout default --document-layout default --downloads --link-terms --bibliography-url ../folio-assistant-core/bibliography/references/ --out",
-    "site:library": "bun run folio-assistant-core/scripts/build-library-site.ts --out",
     "site:node-kinds": "bun run cat-harness-tools/scripts/gen-node-kind-pages.ts --root . --out",
-    "site:glossary": "bun run folio-assistant-core/scripts/glossary-page.ts --instance dth-phc --site",
     "check:dth-glossary": "bun run folio-assistant-core/scripts/glossary-validate.ts --instance dth-phc --capitalized",
     "check:dth-blocks": "bun run scripts/glossary/validate.ts",
     "check:archimate-links": "bun run scripts/glossary/validate.ts",
