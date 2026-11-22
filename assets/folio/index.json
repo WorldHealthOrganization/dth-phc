@@ -30,6 +30,11 @@
       "nodes": 0,
       "files": [
         {
+          "path": "README.md",
+          "bytes": 1432,
+          "size": "1.4 KB"
+        },
+        {
           "path": "dth-phc/annexes/annexes.ts",
           "bytes": 2543,
           "size": "2.5 KB"
@@ -2176,7 +2181,7 @@
         },
         {
           "path": "dth-phc/media/fig-3-phc-digital-ecosystem.svg",
-          "bytes": 14766,
+          "bytes": 14744,
           "size": "14.4 KB"
         },
         {
